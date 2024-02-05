@@ -1,0 +1,30 @@
+* {
+    background-color: #6ad1fa;
+    font-family: 'Paprika', system-ui;
+}
+
+.title {
+    font-size: 100px;
+    text-align: center;
+    padding: 0;
+    margin-top: 0;
+    font-weight: lighter;
+    background: rgb(255, 142, 217);
+    background: linear-gradient(
+        180deg,
+        rgba(255, 142, 217, 1) 0%,
+        rgba(249, 9, 132, 1) 100%
+    );
+    background-size: 100%;
+    background-clip: text;
+    color: transparent;
+    -webkit-text-stroke: 2px black;
+    margin-bottom: 0px;
+}
+.picture {
+    width: 650px;
+    align-items: center;
+    margin: auto;
+    margin-top: 0px;
+    padding: 0;
+}
